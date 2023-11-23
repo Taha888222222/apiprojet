@@ -1,0 +1,12 @@
+.card{
+  width: 18rem;
+  margin: 20px;
+  display: inline-block;
+ 
+}
+.list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 20px;
+}
